@@ -25,3 +25,9 @@ build/
 
 # Logs
 *.log
+
+# Local Jarvis gateway secrets
+app/lib/core/config/dev_gateway_local.dart
+
+# Local Gradle caches
+app/android/.gradle/

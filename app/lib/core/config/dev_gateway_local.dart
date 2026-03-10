@@ -1,3 +1,3 @@
-// Local development only. Do not expose this file publicly.
-const devGatewayToken = 'dee86209fab122a7097c2e170815409d26b7978624371ba3';
-const devGatewayAgent = 'main';
+// Local development only. Keep this file out of version control in real use.
+const devGatewayToken = '';
+const devGatewayAgent = 'openclaw:main';
